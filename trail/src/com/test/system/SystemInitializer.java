@@ -14,8 +14,9 @@ import org.apache.log4j.xml.DOMConfigurator;
 /**
  * Servlet to Initialize the Log4j logging.
  * 
- * @author Vamshi
+ * @author ravi
  * 
+ * checking the git repository
  */
 public class SystemInitializer extends HttpServlet {
 	private static final long serialVersionUID = 6487958414781591670L;
